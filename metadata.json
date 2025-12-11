@@ -1,0 +1,7 @@
+{
+  "name": "Mozhi - Professional Translator",
+  "description": "A professional Tamil-to-English communication assistant. Draft emails, chats, and messages by speaking in Tamil, or practice conversation with a live AI coach.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
